@@ -24,6 +24,7 @@ Documentation of creating a Windows Imaging Format (WIM) file from a live Window
 1. Use sysprep.exe with the /generalize flag.
    
 /generalize: Removes machine-specific settings to make the image reusable.
+
 /shutdown : Shuts down the machine after the process is complete.
 
 ---
