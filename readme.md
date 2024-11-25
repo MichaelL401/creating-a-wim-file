@@ -48,7 +48,9 @@ Confirm the WIM file exists at the specified destination (e.g., C:\image.wim).
 ---
 
 ## Use Cases
-Deploy the WIM file to other machines for consistent system configurations
+
+Deploy the WIM file to other machines for consistent system configurations.
+
 ---
 
 ## Sources
