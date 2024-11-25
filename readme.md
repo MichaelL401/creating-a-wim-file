@@ -25,6 +25,7 @@ Use Shift + F10 to open a command prompt within the Windows Preinstallation Envi
 
 
 ##  Optimize and Capture the Image 
+
  Optimize the system image:
 ```
 DISM /image:C:\ /optimize-image /boot
@@ -43,6 +44,7 @@ Dism /Capture-Image /ImageFile:"C:\image.wim" /CaptureDir:C:\ /Name:image
 ---
 
 ## Verify the WIM File
+
 Reboot the system and log in.
 Confirm the WIM file exists at the specified destination (e.g., C:\image.wim).
 ---
