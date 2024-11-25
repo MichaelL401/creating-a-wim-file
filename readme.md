@@ -10,14 +10,21 @@ Documentation of creating a Windows Imaging Format (WIM) file from a live Window
 ---
 
 ## Steps to Create a WIM File
-(This was already complete before the beginning of the project)
 
-## 1. Install and Configure the System
+## Install and Configure the System
 
 1. Install **Windows 10** on the target machine.
 2. Install all necessary hardware drivers.
 3. Set up required software, user accounts, and system configurations.
 4. 
+---
+
+## Use SysPrep to generalize the image for mass deployment 
+
+1. Use sysprep.exe with the /generalize flag.
+/generalize: Removes machine-specific settings to make the image reusable.
+/shutdown : Shuts down the machine after the process is complete.
+
 ---
 
 ##  Boot into Windows PE
