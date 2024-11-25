@@ -13,6 +13,7 @@ Documentation of creating a Windows Imaging Format (WIM) file from a live Window
 (This was already complete before the beginning of the project)
 
 ## 1. Install and Configure the System
+
 1. Install **Windows 10** on the target machine.
 2. Install all necessary hardware drivers.
 3. Set up required software, user accounts, and system configurations.
@@ -56,6 +57,7 @@ Deploy the WIM file to other machines for consistent system configurations.
 ---
 
 ## Sources
+
 - [Sysprep: Generalize a Windows Installation](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/sysprep--generalize--a-windows-installation?view=windows-11)  
 - [Capture and Apply Windows Using a Single WIM](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/capture-and-apply-windows-using-a-single-wim?view=windows-11)  
 
