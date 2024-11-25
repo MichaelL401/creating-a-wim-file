@@ -51,5 +51,9 @@ Confirm the WIM file exists at the specified destination (e.g., C:\image.wim).
 Deploy the WIM file to other machines for consistent system configurations
 ---
 
+## Sources
+- [Sysprep: Generalize a Windows Installation](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/sysprep--generalize--a-windows-installation?view=windows-11)  
+- [Capture and Apply Windows Using a Single WIM](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/capture-and-apply-windows-using-a-single-wim?view=windows-11)  
+
 
 
