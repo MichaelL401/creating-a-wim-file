@@ -20,6 +20,7 @@ Documentation of creating a Windows Imaging Format (WIM) file from a live Window
 ---
 
 ##  Boot into Windows PE
+
 Insert the Windows 10 installation USB and boot the machine from the USB drive.
 Use Shift + F10 to open a command prompt within the Windows Preinstallation Environment.
 ---
