@@ -17,6 +17,7 @@ Documentation of creating a Windows Imaging Format (WIM) file from a live Window
 1. Install **Windows 10** on the target machine.
 2. Install all necessary hardware drivers.
 3. Set up required software, user accounts, and system configurations.
+4. 
 ---
 
 ##  Boot into Windows PE
@@ -50,6 +51,7 @@ Dism /Capture-Image /ImageFile:"C:\image.wim" /CaptureDir:C:\ /Name:image
 
 Reboot the system and log in.
 Confirm the WIM file exists at the specified destination (e.g., C:\image.wim).
+
 ---
 
 ## Use Cases
